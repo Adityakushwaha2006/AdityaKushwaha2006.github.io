@@ -1,4 +1,4 @@
-# Sneha Maurya's Portfolio Website
+# Aditya Kushwaha's Portfolio Website
 
 Welcome to my portfolio website repository! This website showcases my work, experience, and projects in Data Science and Machine Learning.
 
