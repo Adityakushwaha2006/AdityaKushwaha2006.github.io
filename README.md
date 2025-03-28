@@ -29,11 +29,3 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) to view the website.
-
-## Deployment
-
-This website is automatically deployed to GitHub Pages when changes are pushed to the main branch.
-
-## Contact
-
-Feel free to reach out to me at sm5755@columbia.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/snehamaurya10/).
